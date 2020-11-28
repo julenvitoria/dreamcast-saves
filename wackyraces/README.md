@@ -10,7 +10,7 @@
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v7471.vmi](v7471.vmi) | [v7471.VMS](v7471.VMS) | All stars, all spanners, all cars, & all tracks.All weapons except for the Red Max's paintball.Four codes. 
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v97860.vmi](v97860.vmi) | [v97860.VMS](v97860.VMS) | The whole kit-n-caboodle, 40 stars, 15 time spanners. All boards and all cars plus 3 cheats. 
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v30076.vmi](v30076.vmi) | [v30076.VMS](v30076.VMS) | 40 Tokens, 14 Spaners, all vehicles,and tracks. 
-| ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v38827.vmi](v38827.vmi) | [v38827.VMS](v38827.VMS) | In this one i have 36 stars and i`ve won all the muttley challenges. 
+| ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v38827.vmi](v38827.vmi) | [v38827.VMS](v38827.VMS) | In this one i have 36 stars and i've won all the muttley challenges. 
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v42033.vmi](v42033.vmi) | [v42033.VMS](v42033.VMS) | I have 21 stars And 3 cheat codes and i have all the cars and i won all the battles. 
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v3928.vmi](v3928.vmi) | [v3928.VMS](v3928.VMS) | 32 stars 3 cheats in this one. 
 | ![Wacky Races](../icons/WACKYRUS.001.GIF) | `WACKYRUS.001` | [v6826.vmi](v6826.vmi) | [v6826.VMS](v6826.VMS) | OK, this is the more complete savefile.  I've got around 25 stars,all stages at muttley challenge, allcharachters have all weapons (Minusthe Slag Bros., because they blow).I've also opened up the Battle Caveunderneath the hill.  Phew. 
