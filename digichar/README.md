@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![DiGi Charat Fantasy](../icons/DIGICHAR.SYS.GIF) | `DIGICHAR.SYS` | [DIGICHAR.VMI](DIGICHAR.VMI) | [DIGICHAR.VMS](DIGICHAR.VMS) | Perfect Save! All Open!
+| ![DiGi Charat Fantasy](../icons/DIGICHAR.SYS.GIF) | `DIGICHAR.SYS` | [DIGICHAR.VMI](DIGICHAR.VMI) | [DIGICHAR.VMS](DIGICHAR.VMS) | Perfect Save! All Open! |

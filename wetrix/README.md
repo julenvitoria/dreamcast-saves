@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![Wetrix+](../icons/WETRIXPLS_HS.GIF) | `WETRIXPLS_HS` | [v39228.vmi](v39228.vmi) | [v39228.VMS](v39228.VMS) | New pieces and floors. 
+| ![Wetrix+](../icons/WETRIXPLS_HS.GIF) | `WETRIXPLS_HS` | [v39228.vmi](v39228.vmi) | [v39228.VMS](v39228.VMS) | New pieces and floors.  |

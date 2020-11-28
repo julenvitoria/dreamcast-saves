@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![Zusar Vasar](../icons/ZUSARVASAR00.GIF) | `ZUSARVASAR00` | [00000945.VMI](00000945.VMI) | [00000945.VMS](00000945.VMS) | Everything unlocked! All tracks available.
+| ![Zusar Vasar](../icons/ZUSARVASAR00.GIF) | `ZUSARVASAR00` | [00000945.VMI](00000945.VMI) | [00000945.VMS](00000945.VMS) | Everything unlocked! All tracks available. |

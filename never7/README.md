@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![Never 7: The End of Infinity](../icons/NEVER7DC.DLF.GIF) | `NEVER7DC.DLF` | [never7.VMI](never7.VMI) | [never7.VMS](never7.VMS) | Perfect Save! All Secret Open!
+| ![Never 7: The End of Infinity](../icons/NEVER7DC.DLF.GIF) | `NEVER7DC.DLF` | [never7.VMI](never7.VMI) | [never7.VMS](never7.VMS) | Perfect Save! All Secret Open! |

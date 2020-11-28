@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![Dabitsuku 2](../icons/DABITUK2_FAM.GIF) | `DABITUK2_FAM` | [DABI2.VMI](DABI2.VMI) | [DABI2.VMS](DABI2.VMS) | Money Max!
+| ![Dabitsuku 2](../icons/DABITUK2_FAM.GIF) | `DABITUK2_FAM` | [DABI2.VMI](DABI2.VMI) | [DABI2.VMS](DABI2.VMS) | Money Max! |

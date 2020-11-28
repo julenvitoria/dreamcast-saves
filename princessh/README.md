@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![Princess Holiday](../icons/PRIHOLI_.SYS.GIF) | `PRIHOLI_.SYS` | [PRINCESS.VMI](PRINCESS.VMI) | [PRINCESS.VMS](PRINCESS.VMS) | Cool save for Princess Holiday!
+| ![Princess Holiday](../icons/PRIHOLI_.SYS.GIF) | `PRIHOLI_.SYS` | [PRINCESS.VMI](PRINCESS.VMI) | [PRINCESS.VMS](PRINCESS.VMS) | Cool save for Princess Holiday! |

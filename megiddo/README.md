@@ -4,4 +4,4 @@
 
 | Icon | Filename | VMI | VMS | Description |
 |------|----------|-----|-----|-------------|
-| ![The Virgin On Megiddo](../icons/KAENSEIBOSYS.GIF) | `KAENSEIBOSYS` | [huoyansh.VMI](huoyansh.VMI) | [huoyansh.VMS](huoyansh.VMS) | Perfect Save! All secret unlocked
+| ![The Virgin On Megiddo](../icons/KAENSEIBOSYS.GIF) | `KAENSEIBOSYS` | [huoyansh.VMI](huoyansh.VMI) | [huoyansh.VMS](huoyansh.VMS) | Perfect Save! All secret unlocked |
